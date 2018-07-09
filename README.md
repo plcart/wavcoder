@@ -11,3 +11,7 @@ pipe function to record and encode audio from the browser
 
     const result = window.Wavcoder.pipe(stop, encoder, window.Wavcoder.blobToBase64)({});
 
+##Sample
+
+[wavcoder](https://github.com/plcart/wavcoder)
+
