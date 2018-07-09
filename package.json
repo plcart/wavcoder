@@ -1,6 +1,6 @@
 {
   "name": "wavcoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pipe function to record and encode audio from the browser ",
   "main": "src/main.ts",
   "scripts": {
