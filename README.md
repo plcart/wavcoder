@@ -7,5 +7,7 @@ pipe function to record and encode audio from the browser
 
     npm run build
 
+*Promise result at the end*
 
+    const result = window.Wavcoder.pipe(stop, encoder, window.Wavcoder.blobToBase64)({});
 
