@@ -9,6 +9,7 @@
   },
   "author": "arthur.aferreira@outlook.com",
   "license": "ISC",
+  "repository": "https://github.com/plcart/wavcoder",
   "dependencies": {
     "ts-loader": "^4.4.2",
     "typescript": "^2.9.2"
